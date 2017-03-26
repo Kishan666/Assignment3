@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Question1/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Question1/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Question2/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Question2/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Question3/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Question3/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/Question1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Question2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Question3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/junit-4.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/spring-context-4.2.5.Release.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/testng-6.9.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
